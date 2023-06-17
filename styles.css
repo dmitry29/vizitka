@@ -40,7 +40,7 @@ li {
 
 .c {
     position: absolute;
-    left: 190px;
+    left: 195px;
     top: 130px;
     color: rgb(18, 18, 18);
     font: bold 17px Georgia, Helvetica, Arial, sans-serif;
@@ -56,10 +56,11 @@ li {
 
 .f {
     position: absolute;
-    width: 78px;
+    width: 70px;
     height: 60px;
-    left: 117px;
-    top: 152px;
+    left: 120px;
+    top: 150px;
+    opacity: 0.5;
     
 }
 
