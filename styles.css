@@ -5,7 +5,7 @@ body{
 li {
     position: relative;
     width: 400px;
-    height: 226px;
+    height: 225px;
     margin: 0px;
     padding: 0px;
 }
@@ -19,9 +19,9 @@ li {
 
 .a {
     position: absolute;
-    left: 135px;
+    left: 180px;
     top: 27px;
-    color: rgb(99, 60, 166);
+    color: rgb(129, 3, 3);
     margin: 0; 
     text-align: center;
     font: bold 20px Georgia, Helvetica, Arial, sans-serif;
@@ -30,7 +30,7 @@ li {
 
 .b {
     position: absolute;
-    left: 195px;
+    left: 200px;
     top: 100px;
     color: rgb(33, 24, 190);
     margin: 0; 
@@ -40,15 +40,15 @@ li {
 
 .c {
     position: absolute;
-    left: 195px;
+    left: 205px;
     top: 130px;
     color: rgb(18, 18, 18);
-    font: bold 17px Georgia, Helvetica, Arial, sans-serif;
+    
 }
 
 .d {
     position: absolute;
-    left: 220px;
+    left: 230px;
     top: 110px;
     color: rgb(18, 18, 18);
     font: bold 17px Georgia, Helvetica, Arial, sans-serif;
@@ -68,6 +68,6 @@ li {
     position: absolute;
     width: 50px;
     height: 50px;
-    left: 340px;
-    top: 165px;
+    left: 330px;
+    top: 160px;
 }
